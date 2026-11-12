@@ -1,0 +1,10 @@
+size(600, 400);
+background(0, 0, 0);
+int x = 100;
+int y = 100;
+int breedte = 150;
+int hoogte = 150;
+stroke(255);
+strokeWeight(2);
+noFill();
+rect(x, y, breedte, hoogte);
